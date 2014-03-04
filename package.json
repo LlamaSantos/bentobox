@@ -1,0 +1,15 @@
+{
+	"name" : "bentobox",
+	"version" : "0.0.1",
+	"description" : "A web utility for building SEO compliant pages with a healthy dose of client love.",
+	"dependencies" : {
+		"nodeject" : "*",
+		"underscore" : "*",
+		"nigiri" : "*",
+		"director" : "*"
+	},
+	"devDependencies" : {
+		"mocha" : "*",
+		"chai" : "*"
+	}
+}
